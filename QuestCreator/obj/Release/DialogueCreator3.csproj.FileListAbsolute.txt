@@ -1,0 +1,15 @@
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\bin\Release\DialogueCreator3.exe.config
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\bin\Release\DialogueCreator3.exe
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\bin\Release\DialogueCreator3.pdb
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\bin\Release\Graph.dll
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\bin\Release\Graph.pdb
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.csprojResolveAssemblyReference.cache
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.ExampleForm.resources
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.Form1.resources
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.Form2.resources
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.OpenOnline.resources
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.Preview.resources
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.Properties.Resources.resources
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.csproj.GenerateResource.Cache
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.exe
+C:\Users\Eresea\documents\visual studio 2015\Projects\DialogueCreator3\DialogueCreator3\obj\Release\DialogueCreator3.pdb

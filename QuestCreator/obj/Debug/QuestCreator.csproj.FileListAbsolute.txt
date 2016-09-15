@@ -1,0 +1,15 @@
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\bin\Debug\DialogueCreator3.exe.config
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.exe
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.pdb
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\bin\Debug\DialogueCreator3.exe
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\bin\Debug\DialogueCreator3.pdb
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\bin\Debug\Graph.dll
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\bin\Debug\Graph.pdb
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\QuestCreator.csprojResolveAssemblyReference.cache
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.ExampleForm.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.Form1.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.Form2.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.OpenOnline.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.Preview.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\DialogueCreator3.Properties.Resources.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\QuestCreator\QuestCreator\obj\Debug\QuestCreator.csproj.GenerateResource.Cache

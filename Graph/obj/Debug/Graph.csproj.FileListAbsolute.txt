@@ -1,0 +1,8 @@
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\bin\Debug\Graph.dll
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\bin\Debug\Graph.pdb
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\obj\Debug\Graph.SelectionForm.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\obj\Debug\Graph.TextEditForm.resources
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\obj\Debug\Graph.dll
+C:\Users\Eresea\Documents\Visual Studio 2015\Projects\Graph-master\Graph\obj\Debug\Graph.pdb
